@@ -6,7 +6,6 @@ Welcome to the DailyScience! This website is your go-to source for the latest an
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
@@ -19,3 +18,12 @@ DailyScience is designed to keep you informed about breakthroughs, discoveries, 
 - **Real-time Updates:** Stay up-to-date with the latest science news as it happens.
 - **Social Sharing:** Share your favorite science news with the world! Easily post articles on your social media channels directly from the Science News Hub. Spread the excitement and knowledge within your community.
 - **Social Media:** Connect with us on social media to stay updated on the latest news, features, and announcements:
+
+### 4. Contribution
+
+Interested in contributing to the DailyScience? Check out our [Contribution Guidelines](CONTRIBUTING.md) for information on how to get involved.
+We appreciate your interest in DailyScience and look forward to hearing from you!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
