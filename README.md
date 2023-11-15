@@ -19,7 +19,7 @@ DailyScience is designed to keep you informed about breakthroughs, discoveries, 
 - **Social Sharing:** Share your favorite science news with the world! Easily post articles on your social media channels directly from the Science News Hub. Spread the excitement and knowledge within your community.
 - **Social Media:** Connect with us on social media to stay updated on the latest news, features, and announcements:
 
-### 4. Contribution
+## Contribution
 
 Interested in contributing to the DailyScience? Check out our [Contribution Guidelines](CONTRIBUTING.md) for information on how to get involved.
 We appreciate your interest in DailyScience and look forward to hearing from you!
